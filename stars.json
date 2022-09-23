@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "basujindal/stable-diffusion",
+    "stargazers_count": 1871,
+    "open_issues_count": 65,
+    "forks_count": 268
+  },
+  {
+    "full_name": "CompVis/stable-diffusion",
+    "stargazers_count": 24656,
+    "open_issues_count": 228,
+    "forks_count": 3847
+  },
+  {
     "full_name": "axa-group/Parsr",
-    "stargazers_count": 4247,
+    "stargazers_count": 4364,
     "open_issues_count": 42,
     "forks_count": 209
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 46027,
-    "open_issues_count": 308,
-    "forks_count": 11204
+    "stargazers_count": 46058,
+    "open_issues_count": 310,
+    "forks_count": 11214
   },
   {
     "full_name": "cwerner/fastclass",
@@ -19,7 +31,7 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 73444,
+    "stargazers_count": 73464,
     "open_issues_count": 259,
     "forks_count": 3248
   },
@@ -31,19 +43,19 @@
   },
   {
     "full_name": "spicetify/spicetify-cli",
-    "stargazers_count": 12278,
+    "stargazers_count": 12286,
     "open_issues_count": 8,
-    "forks_count": 506
+    "forks_count": 507
   },
   {
     "full_name": "MFDGaming/ubuntu-in-termux",
-    "stargazers_count": 961,
-    "open_issues_count": 23,
+    "stargazers_count": 964,
+    "open_issues_count": 22,
     "forks_count": 292
   },
   {
     "full_name": "smacke/ffsubsync",
-    "stargazers_count": 5560,
+    "stargazers_count": 5562,
     "open_issues_count": 52,
     "forks_count": 226
   }
