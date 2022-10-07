@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "oriolmarti97/citatBot",
+    "stargazers_count": 20,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
     "full_name": "JoaquimCMH/tomeconta-tce-pe-dados",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,27 +13,27 @@
   },
   {
     "full_name": "basujindal/stable-diffusion",
-    "stargazers_count": 2030,
-    "open_issues_count": 69,
-    "forks_count": 288
+    "stargazers_count": 2068,
+    "open_issues_count": 70,
+    "forks_count": 293
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 26943,
-    "open_issues_count": 259,
-    "forks_count": 4286
+    "stargazers_count": 27504,
+    "open_issues_count": 265,
+    "forks_count": 4426
   },
   {
     "full_name": "axa-group/Parsr",
-    "stargazers_count": 4725,
+    "stargazers_count": 4871,
     "open_issues_count": 44,
-    "forks_count": 235
+    "forks_count": 244
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 46458,
-    "open_issues_count": 290,
-    "forks_count": 11346
+    "stargazers_count": 46633,
+    "open_issues_count": 297,
+    "forks_count": 11636
   },
   {
     "full_name": "cwerner/fastclass",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 73679,
+    "stargazers_count": 73843,
     "open_issues_count": 261,
-    "forks_count": 3255
+    "forks_count": 3262
   },
   {
     "full_name": "juliasilge/supervised-ML-case-studies-course",
@@ -49,19 +55,19 @@
   },
   {
     "full_name": "spicetify/spicetify-cli",
-    "stargazers_count": 12367,
+    "stargazers_count": 12385,
     "open_issues_count": 8,
     "forks_count": 506
   },
   {
     "full_name": "MFDGaming/ubuntu-in-termux",
-    "stargazers_count": 977,
+    "stargazers_count": 976,
     "open_issues_count": 23,
     "forks_count": 293
   },
   {
     "full_name": "smacke/ffsubsync",
-    "stargazers_count": 5584,
+    "stargazers_count": 5594,
     "open_issues_count": 52,
     "forks_count": 227
   }
