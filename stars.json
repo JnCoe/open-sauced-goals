@@ -1,7 +1,7 @@
 [
   {
     "full_name": "oriolmarti97/citatBot",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "basujindal/stable-diffusion",
-    "stargazers_count": 2524,
+    "stargazers_count": 2541,
     "open_issues_count": 88,
-    "forks_count": 362
+    "forks_count": 368
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 36697,
-    "open_issues_count": 387,
-    "forks_count": 5648
+    "stargazers_count": 37079,
+    "open_issues_count": 392,
+    "forks_count": 5711
   },
   {
     "full_name": "axa-group/Parsr",
-    "stargazers_count": 5018,
-    "open_issues_count": 49,
+    "stargazers_count": 5021,
+    "open_issues_count": 51,
     "forks_count": 257
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 48697,
-    "open_issues_count": 257,
-    "forks_count": 12427
+    "stargazers_count": 48814,
+    "open_issues_count": 262,
+    "forks_count": 12469
   },
   {
     "full_name": "cwerner/fastclass",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 74773,
-    "open_issues_count": 266,
-    "forks_count": 3297
+    "stargazers_count": 74816,
+    "open_issues_count": 270,
+    "forks_count": 3300
   },
   {
     "full_name": "juliasilge/supervised-ML-case-studies-course",
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "spicetify/spicetify-cli",
-    "stargazers_count": 12973,
+    "stargazers_count": 12998,
     "open_issues_count": 12,
-    "forks_count": 554
+    "forks_count": 560
   },
   {
     "full_name": "MFDGaming/ubuntu-in-termux",
-    "stargazers_count": 1046,
+    "stargazers_count": 1051,
     "open_issues_count": 26,
     "forks_count": 297
   },
   {
     "full_name": "smacke/ffsubsync",
-    "stargazers_count": 5686,
-    "open_issues_count": 54,
+    "stargazers_count": 5694,
+    "open_issues_count": 53,
     "forks_count": 235
   }
 ]
