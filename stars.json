@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ankane/pghero",
+    "stargazers_count": 6832,
+    "open_issues_count": 4,
+    "forks_count": 406
+  },
+  {
     "full_name": "dssg/baltimore_roofs_public",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -19,27 +25,27 @@
   },
   {
     "full_name": "basujindal/stable-diffusion",
-    "stargazers_count": 2671,
+    "stargazers_count": 2674,
     "open_issues_count": 89,
-    "forks_count": 384
+    "forks_count": 385
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 40169,
-    "open_issues_count": 441,
-    "forks_count": 6277
+    "stargazers_count": 40398,
+    "open_issues_count": 443,
+    "forks_count": 6319
   },
   {
     "full_name": "axa-group/Parsr",
-    "stargazers_count": 5103,
+    "stargazers_count": 5107,
     "open_issues_count": 55,
     "forks_count": 262
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 51269,
-    "open_issues_count": 278,
-    "forks_count": 14588
+    "stargazers_count": 51423,
+    "open_issues_count": 279,
+    "forks_count": 14650
   },
   {
     "full_name": "cwerner/fastclass",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 75498,
-    "open_issues_count": 274,
-    "forks_count": 3309
+    "stargazers_count": 75544,
+    "open_issues_count": 275,
+    "forks_count": 3314
   },
   {
     "full_name": "juliasilge/supervised-ML-case-studies-course",
@@ -61,19 +67,19 @@
   },
   {
     "full_name": "spicetify/spicetify-cli",
-    "stargazers_count": 13407,
-    "open_issues_count": 9,
-    "forks_count": 588
+    "stargazers_count": 13429,
+    "open_issues_count": 10,
+    "forks_count": 587
   },
   {
     "full_name": "MFDGaming/ubuntu-in-termux",
-    "stargazers_count": 1084,
+    "stargazers_count": 1089,
     "open_issues_count": 27,
     "forks_count": 309
   },
   {
     "full_name": "smacke/ffsubsync",
-    "stargazers_count": 5773,
+    "stargazers_count": 5776,
     "open_issues_count": 49,
     "forks_count": 235
   }
