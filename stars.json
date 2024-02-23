@@ -1,15 +1,15 @@
 [
   {
     "full_name": "satwikkansal/wtfpython",
-    "stargazers_count": 34862,
+    "stargazers_count": 34872,
     "open_issues_count": 79,
-    "forks_count": 2730
+    "forks_count": 2610
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 61357,
-    "open_issues_count": 368,
-    "forks_count": 6896
+    "stargazers_count": 61519,
+    "open_issues_count": 379,
+    "forks_count": 6741
   },
   {
     "full_name": "JnCoe/baltimore_roofs_public",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "ankane/pghero",
-    "stargazers_count": 7472,
+    "stargazers_count": 7476,
     "open_issues_count": 8,
     "forks_count": 439
   },
@@ -51,25 +51,25 @@
     "full_name": "basujindal/stable-diffusion",
     "stargazers_count": 3141,
     "open_issues_count": 97,
-    "forks_count": 473
+    "forks_count": 470
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 63581,
-    "open_issues_count": 565,
-    "forks_count": 9717
+    "stargazers_count": 63704,
+    "open_issues_count": 566,
+    "forks_count": 9638
   },
   {
     "full_name": "axa-group/Parsr",
-    "stargazers_count": 5558,
+    "stargazers_count": 5578,
     "open_issues_count": 70,
-    "forks_count": 300
+    "forks_count": 296
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 63264,
+    "stargazers_count": 63337,
     "open_issues_count": 253,
-    "forks_count": 20267
+    "forks_count": 20110
   },
   {
     "full_name": "cwerner/fastclass",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 81432,
+    "stargazers_count": 81837,
     "open_issues_count": 325,
-    "forks_count": 3550
+    "forks_count": 3378
   },
   {
     "full_name": "juliasilge/supervised-ML-case-studies-course",
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "spicetify/spicetify-cli",
-    "stargazers_count": 16139,
-    "open_issues_count": 11,
-    "forks_count": 692
+    "stargazers_count": 16155,
+    "open_issues_count": 8,
+    "forks_count": 682
   },
   {
     "full_name": "MFDGaming/ubuntu-in-termux",
-    "stargazers_count": 1427,
+    "stargazers_count": 1430,
     "open_issues_count": 42,
     "forks_count": 374
   },
   {
     "full_name": "smacke/ffsubsync",
-    "stargazers_count": 6394,
+    "stargazers_count": 6395,
     "open_issues_count": 57,
     "forks_count": 268
   }
