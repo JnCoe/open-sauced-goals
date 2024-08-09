@@ -1,15 +1,15 @@
 [
   {
     "full_name": "satwikkansal/wtfpython",
-    "stargazers_count": 35542,
+    "stargazers_count": 35549,
     "open_issues_count": 86,
-    "forks_count": 2646
+    "forks_count": 2648
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 68306,
-    "open_issues_count": 520,
-    "forks_count": 7494
+    "stargazers_count": 68388,
+    "open_issues_count": 526,
+    "forks_count": 7500
   },
   {
     "full_name": "JnCoe/baltimore_roofs_public",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "ankane/pghero",
-    "stargazers_count": 7937,
+    "stargazers_count": 7943,
     "open_issues_count": 12,
     "forks_count": 445
   },
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 66995,
+    "stargazers_count": 67015,
     "open_issues_count": 590,
-    "forks_count": 10021
+    "forks_count": 10026
   },
   {
     "full_name": "axa-group/Parsr",
-    "stargazers_count": 5734,
+    "stargazers_count": 5738,
     "open_issues_count": 72,
     "forks_count": 305
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 67260,
-    "open_issues_count": 296,
-    "forks_count": 21935
+    "stargazers_count": 67324,
+    "open_issues_count": 293,
+    "forks_count": 21963
   },
   {
     "full_name": "cwerner/fastclass",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 83980,
-    "open_issues_count": 336,
-    "forks_count": 3414
+    "stargazers_count": 84022,
+    "open_issues_count": 337,
+    "forks_count": 3413
   },
   {
     "full_name": "juliasilge/supervised-ML-case-studies-course",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "spicetify/cli",
-    "stargazers_count": 17803,
-    "open_issues_count": 10,
+    "stargazers_count": 17827,
+    "open_issues_count": 11,
     "forks_count": 711
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "smacke/ffsubsync",
-    "stargazers_count": 6663,
+    "stargazers_count": 6667,
     "open_issues_count": 59,
     "forks_count": 272
   }
