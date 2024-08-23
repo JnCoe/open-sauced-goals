@@ -1,15 +1,15 @@
 [
   {
     "full_name": "satwikkansal/wtfpython",
-    "stargazers_count": 35580,
+    "stargazers_count": 35589,
     "open_issues_count": 86,
-    "forks_count": 2648
+    "forks_count": 2649
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 68615,
-    "open_issues_count": 546,
-    "forks_count": 7523
+    "stargazers_count": 68680,
+    "open_issues_count": 547,
+    "forks_count": 7527
   },
   {
     "full_name": "JnCoe/baltimore_roofs_public",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "ankane/pghero",
-    "stargazers_count": 7959,
+    "stargazers_count": 7973,
     "open_issues_count": 12,
     "forks_count": 444
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 67157,
+    "stargazers_count": 67199,
     "open_issues_count": 590,
-    "forks_count": 10041
+    "forks_count": 10044
   },
   {
     "full_name": "axa-group/Parsr",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 67550,
-    "open_issues_count": 299,
-    "forks_count": 22074
+    "stargazers_count": 67630,
+    "open_issues_count": 297,
+    "forks_count": 22105
   },
   {
     "full_name": "cwerner/fastclass",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 84211,
-    "open_issues_count": 338,
+    "stargazers_count": 84236,
+    "open_issues_count": 339,
     "forks_count": 3417
   },
   {
@@ -91,20 +91,20 @@
   },
   {
     "full_name": "spicetify/cli",
-    "stargazers_count": 17916,
+    "stargazers_count": 17942,
     "open_issues_count": 11,
     "forks_count": 715
   },
   {
     "full_name": "MFDGaming/ubuntu-in-termux",
-    "stargazers_count": 1563,
+    "stargazers_count": 1566,
     "open_issues_count": 49,
     "forks_count": 386
   },
   {
     "full_name": "smacke/ffsubsync",
-    "stargazers_count": 6679,
+    "stargazers_count": 6686,
     "open_issues_count": 59,
-    "forks_count": 271
+    "forks_count": 272
   }
 ]
